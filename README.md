@@ -1,17 +1,9 @@
 #About me 👋
-
-
-<!--**Dwij45/Dwij45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on Website
-- 🌱 I’m currently learning Javascript
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑‍💻 Beginner MERN Stack Developer | Web Development Enthusiast
+  
+- 🌱 I’m currently learning MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- 🚀 Passionate and hignly intrested in Web3 industry
+- 🔭 I’m working on building exciting web applications and projects  
+- 👯 I’m looking to collaborate on  web development initiatives or beginner friendly web3 ideas
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: *I believe Debugging need patience and a jug full of TEA*
